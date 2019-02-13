@@ -1,0 +1,40 @@
+A new variable named: asdf is declared and initialized with: 1.000000
+Variable named: asdf is already declared...try using different name
+A new variable named: md is declared and initialized with: 2.000000
+A new variable named: b is declared and initialized with: 10.100000
+A new variable named: a is declared and initialized with: 3.000000
+Variable xyz is not declared
+value of expression: 10.100000
+value of expression in IF: 10.100000
+value of expression: 12.000000
+value of expression: 2.000000
+value of expression in IF: 12.000000
+value of expression: 3.000000
+value of expression: 30.000000
+value of expression in IF: 30.000000
+value of expression in IF: 3.000000
+Invalid datatype. Mod operation is only available for integers
+value of expression: 0.000000
+To the power value 32.0000000000
+value of expression: 32.000000
+Switch case forwarded to case: 404
+value of expression: 101.000000
+value of expression: 202.000000
+value of expression: 303.000000
+value of expression: 505.000000
+No case matched and executing default statement and its value : 505.000000
+value of expression: 4.000000
+ inside Function funDemo
+Statement value: 4.000000
+ 
+Variable name: a and its assigned value: 1.000000	
+
+expression in for loop : 1.000000
+expression in for loop : 1.000000
+expression in for loop : 1.000000
+expression in for loop : 1.000000
+expression in for loop : 1.000000
+expression in for loop : 1.000000
+expression in for loop : 1.000000
+expression in for loop : 1.000000
+expression in for loop : 1.000000

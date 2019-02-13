@@ -1,0 +1,46 @@
+int asdf assign 1 semicolon
+int asdf assign 0 semicolon
+int md assign 2 semicolon
+double b assign 10.1 semicolon
+int a assign 3 semicolon
+xyz assign 10 semicolon
+
+
+if parenthesesS asdf parenthesesE
+	b semicolon
+
+
+if parenthesesS 1 equal 1 parenthesesE
+	4 mult 3 semicolon
+else
+	2 semicolon	
+
+
+if parenthesesS 2 equal 2 parenthesesE
+		a semicolon
+else
+		if parenthesesS asdf parenthesesE
+		30 semicolon	
+
+b mod md semicolon
+
+2 pow 5 semicolon
+
+
+switch parenthesesS 404 parenthesesE
+case 1
+	101 semicolon
+case 2
+	202 semicolon
+case 3
+	303 semicolon
+default
+	505 semicolon	
+
+funDemo braceS a plus asdf semicolon braceE
+
+
+for parenthesesS a assign 1 semicolon a less 10 semicolon a parenthesesE
+braceS
+	a semicolon
+braceE
